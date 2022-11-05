@@ -16,6 +16,8 @@
 
 UI Screenshots:
 
-<img width="1433" alt="Screenshot 2022-11-06 at 6 19 34 AM" src="https://user-images.githubusercontent.com/78578136/200143484-04302557-6782-4b56-a74e-2736578528db.png">
-<img width="1435" alt="Screenshot 2022-11-06 at 6 19 47 AM" src="https://user-images.githubusercontent.com/78578136/200143487-7578609d-6430-4c23-8e41-caa928706368.png">
-<img width="1419" alt="Screenshot 2022-11-06 at 6 19 57 AM" src="https://user-images.githubusercontent.com/78578136/200143488-6185ae16-3514-41a1-85f8-119435860b19.png">
+<img width="784" alt="Screenshot 2022-11-06 at 6 19 34 AM" src="https://user-images.githubusercontent.com/78578136/200143546-9d58887d-0605-4824-810e-821fb23ba8a2.png">
+
+<img width="833" alt="Screenshot 2022-11-06 at 6 19 47 AM" src="https://user-images.githubusercontent.com/78578136/200143548-a328adcf-1f20-44b5-9d06-2fab7a5c0ef1.png">
+
+<img width="803" alt="Screenshot 2022-11-06 at 6 19 57 AM" src="https://user-images.githubusercontent.com/78578136/200143549-cd49c1f1-d2dc-4e8a-af6b-35b719a4ce7d.png">
