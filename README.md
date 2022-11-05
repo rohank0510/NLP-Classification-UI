@@ -1,6 +1,5 @@
 # NLP-Classification-UI
 
-
 1. Download the dataset: [here](https://drive.google.com/file/d/1rvtEnRDXUZZD1QAFKo9XJ_Xfvn-dFmAl/view?usp=sharing). Put it in the same folder as Classification_UI.py
 
 2. Download the models:
@@ -11,7 +10,10 @@
   
 3. Install dependencies in requirements.txt
 
-4. streamlit run Classification_UI.py
+4. Run the app using streamlit
+```
+streamlit run Classification_UI.py
+```
 
 
 UI Screenshots:
