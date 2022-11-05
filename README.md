@@ -14,7 +14,7 @@
   pip install -r requirements.txt
 ```
 
-4. Run the app using streamlit
+## Run the app using streamlit
 ```bash
   streamlit run Classification_UI.py
 ```
