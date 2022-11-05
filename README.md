@@ -12,3 +12,10 @@
 3. Install dependencies in requirements.txt
 
 4. streamlit run Classification_UI.py
+
+
+UI Screenshots:
+
+<img width="1433" alt="Screenshot 2022-11-06 at 6 19 34 AM" src="https://user-images.githubusercontent.com/78578136/200143484-04302557-6782-4b56-a74e-2736578528db.png">
+<img width="1435" alt="Screenshot 2022-11-06 at 6 19 47 AM" src="https://user-images.githubusercontent.com/78578136/200143487-7578609d-6430-4c23-8e41-caa928706368.png">
+<img width="1419" alt="Screenshot 2022-11-06 at 6 19 57 AM" src="https://user-images.githubusercontent.com/78578136/200143488-6185ae16-3514-41a1-85f8-119435860b19.png">
