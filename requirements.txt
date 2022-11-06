@@ -5,4 +5,5 @@ spacy_streamlit==1.0.4
 streamlit==1.13.0
 transformers==4.21.3
 torch==1.11.0
+spacy-transformers
 
