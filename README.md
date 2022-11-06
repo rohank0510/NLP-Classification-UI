@@ -4,8 +4,8 @@
  [Link](https://drive.google.com/file/d/1rvtEnRDXUZZD1QAFKo9XJ_Xfvn-dFmAl/view?usp=sharing). Extract it in the same folder as Classification_UI.py
 
 ## Download models
-  - DistilBERT: [here](https://drive.google.com/drive/folders/1brNo_XOq1H9Ej_MKOIE8tSNumZdskr2G?usp=share_link)
-  - NER: [here](https://drive.google.com/drive/folders/1dsFkHKdqqSj4yg5qynVM4G7BLOg9Alz7?usp=share_link)
+  - DistilBERT: [here](https://drive.google.com/drive/folders/1brNo_XOq1H9Ej_MKOIE8tSNumZdskr2G?usp=share_link). Save the folder as 'training'
+  - NER: [here](https://drive.google.com/drive/folders/1dsFkHKdqqSj4yg5qynVM4G7BLOg9Alz7?usp=share_link). Save the folder as 'NER_custom_model'
   
   Put the folders with the models in the same folder as Classification_UI.py.
   
